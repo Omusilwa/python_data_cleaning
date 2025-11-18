@@ -1,6 +1,6 @@
 # Data Cleaning Process:
 
-(Healthcare/Epidemiology)
+
 Goal: produce an accurate, consistent, analysis‑ready dataset for health policy, epidemiology, ML, and global health research.
 
 ---
